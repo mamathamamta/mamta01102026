@@ -1,8 +1,8 @@
 My name is mamatha....
-<<<<<<..< HEAD
+<<<<<<< HEAD
 python programing...
 java programing////
-
 =======
 addtion
 >>>>>>> master
+multiplication
