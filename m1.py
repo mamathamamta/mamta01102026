@@ -4,6 +4,6 @@ if(a%==0)
 print(number is even)
 else
 print(number is odd)
-print(hello)
-print(good morning)
+print("addition",a + b)
+
 
