@@ -1,3 +1,8 @@
-program management with git.
-github..
-do work..
+
+a=10;
+if(a%==0)
+print(number is even)
+else
+print(number is odd)
+
+
